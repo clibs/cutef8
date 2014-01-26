@@ -1,0 +1,6 @@
+{
+  "name": "cutef8",
+  "description": "Simple, fast C routines for manipulating UTF-8",
+  "repo": "clibs/cutef8",
+  "src": [ "utf8.h", "utf8.c" ]
+}
